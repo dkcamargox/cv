@@ -4,7 +4,7 @@
 
 In this repo there's my CV!
 
-My name is actually Douglas and I am a passionate Brazilian programmer with 3 years of experience as both a Full-Stack and Frontend developer. I am excited to apply for the [position] role at [company], and I believe that my skills and experience make me a strong candidate for this position.
+My name is actually Douglas and I am a passionate Brazilian programmer with 3 years of experience as both a Full-Stack and Frontend developer. I am excited to apply for this role, and I believe that my skills and experience make me a strong candidate for this position.
 
 In addition to my programming experience, I have a degree as an electronics technician with an emphasis on programming, and I am currently pursuing a degree in computer engineering. I have also completed courses and bootcamps, such as the Harvard CS50, to further enhance my knowledge and skills.
 
@@ -16,7 +16,7 @@ I am confident that my passion for programming and my diverse experience make me
 
 En este repo esta mi CV!
 
-Mi nombre es la verdad Douglas y soy un apasionado programador brasileño con 3 años de experiencia como Full-Stack y Frontend developer. Me emociona presentar mi solicitud para el puesto de [position] en [company], y creo que mis habilidades y experiencia me convierten en un candidato fuerte para este puesto.
+Mi nombre es la verdad Douglas y soy un apasionado programador brasileño con 3 años de experiencia como Full-Stack y Frontend developer. Me emociona presentar mi solicitud para el puesto, y creo que mis habilidades y experiencia me convierten en un candidato fuerte para este puesto.
 
 Además de mi experiencia en programación, tengo un título como técnico en electrónica con énfasis en programación y actualmente estoy cursando ingeniería en informática. También he completado cursos y bootcamps, como el Harvard CS50, para mejorar aún más mis conocimientos y habilidades.
 

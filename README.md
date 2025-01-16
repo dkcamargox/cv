@@ -23,3 +23,5 @@ Además de mi experiencia en programación, tengo un título como técnico en el
 La programación no es solo mi trabajo, sino también mi pasatiempo. Estoy completamente enamorado del campo y he trabajado en proyectos tanto en mis estudios técnicos como en la universidad. Incluso he participado en renombradas ferias de ciencias en mi país, como la Mostra de Projetos de Feliz y FBJC, y fui finalista en ambas.
 
 Estoy seguro de que mi pasión por la programación y mi experiencia diversa me convierten en un activo valioso para su equipo. Me honraría tener la oportunidad de mostrarles quién soy y la manera en que trabajo. Gracias por considerar mi solicitud.
+
+test
